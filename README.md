@@ -14,7 +14,7 @@
 
 TINKERCAD 
 
-
+![image](https://github.com/xuanxxx2002/arduino-security-alarm/blob/main/docs/architecture.png)
 
 ---
 
@@ -41,6 +41,7 @@ TINKERCAD
 | ARMED（布防） | 系統監控環境，等待入侵 |
 | ALARM（警報） | 偵測到異常，觸發警報 |
 
+![image](https://github.com/xuanxxx2002/arduino-security-alarm/blob/main/docs/flowchart.png)
 
 ## 接線說明
 
@@ -85,5 +86,5 @@ TINKERCAD
 
 ## 系統實體照片
 
-
+![image](https://github.com/xuanxxx2002/arduino-security-alarm/blob/main/img/demo.png)
 
