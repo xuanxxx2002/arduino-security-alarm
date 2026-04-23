@@ -86,5 +86,5 @@ TINKERCAD
 
 ## 系統實體照片
 
-![image](https://github.com/xuanxxx2002/arduino-security-alarm/blob/main/img/demo.png)
+![image]()
 
