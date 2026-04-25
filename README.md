@@ -11,9 +11,6 @@
 系統採用 **狀態機設計（State Machine）**，確保在不同安全狀態下的穩定運作與可控行為。
 
 
-
-TINKERCAD 
-
 ![image](https://github.com/xuanxxx2002/arduino-security-alarm/blob/main/docs/architecture_NEW.png)
 
 ---
