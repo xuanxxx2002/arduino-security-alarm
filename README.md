@@ -14,7 +14,7 @@
 
 TINKERCAD 
 
-![image](https://github.com/xuanxxx2002/arduino-security-alarm/blob/main/docs/architecture.png)
+![image]([https://github.com/xuanxxx2002/arduino-security-alarm/blob/main/docs/architecture.png](https://github.com/xuanxxx2002/arduino-security-alarm/blob/main/docs/architecture_NEW.png))
 
 ---
 
